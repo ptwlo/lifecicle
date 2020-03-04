@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* Petter's CSS */
+.App{
+ 
+}
+body{
+  background-color:	#eccaca;
+}
+ul{
+  width: 80%;
+  margin: 20px auto;
+  border: 10px dotted brown;
+  padding: 20px;;
+}
+.Names ul li{
+  font-family: 'Noto Sans', sans-serif;
+  color: #7e1841;
+  font-size: 2em;
+  margin-left: 25px;
+}
